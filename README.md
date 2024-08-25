@@ -1,5 +1,5 @@
 # Food Order App:
-> This is a food order App, we used the concepts of components, state, useEffect, Http requests.
+> This is a food order App, we used the concepts of components, state, useEffect, Http requests and more.
 ## Step By Step of How We built It:
 
 ### 1. Header Component:
