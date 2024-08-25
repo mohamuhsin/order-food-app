@@ -10,4 +10,5 @@
 ### 4. MealItem Component:
 > We created The MealItem component which is responsible for rendering each meal's details, including an image, price, description, and a button to add the meal to a cart. That's the component we return after mapping over each loaded meal from the server and we give it meal prop ```meal={meal}``` which we destructured inside the component.
 ### 7. Formatted Our Currency To USD:
+> We formatted our currency using the ```Intl.NumberFormat``` built in javascript object that allows you to format numbers based on a specific locale and formatting options
 ### 8. Custom Button Component:
