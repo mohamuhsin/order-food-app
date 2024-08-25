@@ -16,7 +16,7 @@
 > We created a custom Button Component, and configured it to cater for all kinds of buttons, text only (clickable buttons) and other buttons, we also made sure it recieve all other props and recieve more classes from outside the component.
 
 # To Run The App:
-> Clone it or download.
-> run ```npm install```
-> then run ```npm run dev```
-> cd to backend folder and run ```npm start```
+> Clone it or download. <br>
+> run ```npm install``` <br>
+> then run ```npm run dev``` to start the development server. <br>
+> cd to backend folder and run ```npm start``` to start the backend server.
