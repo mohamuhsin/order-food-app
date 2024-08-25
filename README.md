@@ -17,6 +17,6 @@
 
 # To Run The App:
 > Clone it or download. <br>
-> cd to the project folder then run ```npm install``` to install all dependencies. <br>
+> ```cd``` to the project folder then run ```npm install``` to install all dependencies. <br>
 > then run ```npm run dev``` to start the development server. <br>
-> cd to backend folder and run ```npm start``` to start the backend server.
+> ```cd``` to backend folder and run ```npm start``` to start the backend server.
