@@ -8,6 +8,6 @@
 ### 3. Mapped through Each Loaded Meals from the server:
 > Inside the Meals component return method we mapped over the loaded meals from the server using ```map()``` to return a jsx for a each meal.   
 ### 4. MealItem Component:
-> We created The MealItem component is responsible for rendering each meal's details, including an image, price, description, and a button to add the meal to a cart.
+> We created The MealItem component which is responsible for rendering each meal's details, including an image, price, description, and a button to add the meal to a cart.
 ### 7. Formatted Our Currency To USD:
 ### 8. Custom Button Component:
