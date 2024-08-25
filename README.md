@@ -12,3 +12,4 @@
 ### 7. Formatted Our Currency To USD:
 > We formatted our currency using the ```Intl.NumberFormat``` built in javascript object that allows you to format numbers based on a specific locale and formatting options
 ### 8. Custom Button Component:
+> We created a custom Button Component, and configured it to cater for all kinds of buttons, text only (clickable buttons) and other buttons, we also made sure it recieve all other props and recieve more classes from outside the component.
