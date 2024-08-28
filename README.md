@@ -20,7 +20,7 @@
 ### 8. Custom Button Component:
 > We created a custom Button Component, and configured it to cater for all kinds of buttons, text only (clickable buttons) and other buttons, we also made sure it recieve all other props and recieve more classes from outside the component.
 
-### 9. We got Started with Cart Context:
+### 9. We Created a Cart Context:
 >
 
 ### 10. Finished The Context and Used It With useReducer:
