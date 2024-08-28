@@ -32,6 +32,9 @@
 ### 12. Opened the Cart in the Modal via a New Context:
 >
 
+### 13. Worked On The Cart Items:
+>
+
 # To Run The App:
 > Clone it or download. <br>
 > ```cd``` to the project folder then run ```npm install``` to install all dependencies. <br>
