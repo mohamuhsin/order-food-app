@@ -35,6 +35,9 @@
 ### 13. Worked On The Cart Items:
 >
 
+### 14. Added a Custom Input Component and Managed Modal Visibility:
+>
+
 # To Run The App:
 > Clone it or download. <br>
 > ```cd``` to the project folder then run ```npm install``` to install all dependencies. <br>
