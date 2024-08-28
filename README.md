@@ -29,6 +29,9 @@
 ### 11. Added a Reusable Modal Component:
 >
 
+### 12. Opened the Cart in the Modal via a New Context:
+>
+
 # To Run The App:
 > Clone it or download. <br>
 > ```cd``` to the project folder then run ```npm install``` to install all dependencies. <br>
