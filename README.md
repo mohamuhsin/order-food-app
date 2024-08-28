@@ -24,6 +24,10 @@
 >
 
 ### 10. Finished The Context and Used It With useReducer:
+>
+
+### 11. Added a Reusable Modal Component:
+>
 
 # To Run The App:
 > Clone it or download. <br>
