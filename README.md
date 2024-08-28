@@ -20,20 +20,23 @@
 ### 8. Custom Button Component:
 > We created a custom Button Component, and configured it to cater for all kinds of buttons, text only (clickable buttons) and other buttons, we also made sure it recieve all other props and recieve more classes from outside the component.
 
-### 9. We Created a Cart Context:
->
+### 9. Cart Context:
+> We created the CartContext to enable adding and removing of items from the cart from various components to avoid prop drilling.
 
 ### 10. Finished The Context and Used It With useReducer:
->
+> Updating cart(adding & removing items) requires a complex state management. 
+> We used useReducer hook to defined our custom cart updating logic instead of using useState.
 
-### 11. Added a Reusable Modal Component:
->
+### 11. Reusable Modal Component:
+> We added a reusable modal component to display the cart.
 
 ### 12. Opened the Cart in the Modal via a New Context:
->
+> We added a UserProgressContext to track progress of the user.
+> It will enable the modal to display when user wants to view the cart.
 
 ### 13. Worked On The Cart Items:
->
+> We created a CartItem component display each cart item and also add some actions to such as increase or decrease quantities to it.
+> From this CartItem, the item, item quantities and totals of each item are displayed.
 
 ### 14. Added a Custom Input Component and Managed Modal Visibility:
 >
