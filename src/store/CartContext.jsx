@@ -64,7 +64,7 @@ export function CartContextProvider({ children }) {
     function removeItem(id) {
         dispatchCartAction({
             type: "REMOVE_ITEM",
-            payload: id,
+            id,
         });
     }
 
