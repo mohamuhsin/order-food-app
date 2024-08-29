@@ -41,6 +41,9 @@
 ### 14. Added a Custom Input Component and Managed Modal Visibility:
 >
 
+### 14. Handled form submission and validation:
+>
+
 # To Run The App:
 > Clone it or download. <br>
 > ```cd``` to the project folder then run ```npm install``` to install all dependencies. <br>
