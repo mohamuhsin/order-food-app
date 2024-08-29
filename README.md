@@ -41,7 +41,7 @@
 ### 14. Added a Custom Input Component and Managed Modal Visibility:
 >
 
-### 14. Handled form submission and validation:
+### 15. Handled form submission and validation:
 >
 
 # To Run The App:
