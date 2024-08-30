@@ -45,6 +45,8 @@
 ### 15. Handled form submission and validation:
 > We handled form validation where the form data was handled by the FormData object
 
+### 16. Handled form submission and validation:
+
 # To Run The App:
 > Clone it or download. <br>
 > ```cd``` to the project folder then run ```npm install``` to install all dependencies. <br>
