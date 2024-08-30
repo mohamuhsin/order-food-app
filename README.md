@@ -45,7 +45,7 @@
 ### 15. Handled form submission and validation:
 > We handled form validation where the form data was handled by the FormData object
 
-### 16. Handled form submission and validation:
+### 16. Sending a POST Request With Order Data:
 
 # To Run The App:
 > Clone it or download. <br>
