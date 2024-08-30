@@ -48,7 +48,13 @@
 ### 16. Sending a POST Request With Order Data:
 >
 
-### 15. Adding a Custom HTTP Hook and Avoiding Common Errors:
+### 17. Adding a Custom HTTP Hook and Avoiding Common Errors:
+>
+
+### 18. Handling HTTP Loading & Error States:
+>
+
+### 19. Finishing Touches:
 >
 
 # To Run The App:
