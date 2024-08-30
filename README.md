@@ -39,10 +39,11 @@
 > From this CartItem, the item, item quantities and totals of each item are displayed.
 
 ### 14. Added a Custom Input Component and Managed Modal Visibility:
->
+> We added an Input component to implement custom inputs for our checkout form
+> Implemented the modal visibility for the checkout Component 
 
 ### 15. Handled form submission and validation:
->
+> We handled form validation where the form data was handled by the FormData object
 
 # To Run The App:
 > Clone it or download. <br>
